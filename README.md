@@ -5,6 +5,13 @@
 - [ ] into electron version
 - [ ] etc
 
+## Gatsby Site:
+![gatsby veriosn](https://user-images.githubusercontent.com/15269933/173219744-c5b074ca-210d-4e00-9109-7699f43c3b4d.png)
+
+## Wordpress version:
+![ WordPress site](https://user-images.githubusercontent.com/15269933/173219734-8b65d634-140d-49e0-a93d-c4e936fbadf8.png)
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
